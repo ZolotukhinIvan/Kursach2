@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Курсач\BathYard\BathYard\bin\Release\BathYard.exe.config
+C:\Users\User\Desktop\Курсач\BathYard\BathYard\bin\Release\BathYard.exe
+C:\Users\User\Desktop\Курсач\BathYard\BathYard\bin\Release\BathYard.pdb
+C:\Users\User\Desktop\Курсач\BathYard\BathYard\obj\Release\BathYard.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Курсач\BathYard\BathYard\obj\Release\BathYard.Properties.Resources.resources
+C:\Users\User\Desktop\Курсач\BathYard\BathYard\obj\Release\BathYard.AuthrizationForm.resources
+C:\Users\User\Desktop\Курсач\BathYard\BathYard\obj\Release\BathYard.CustForm.resources
+C:\Users\User\Desktop\Курсач\BathYard\BathYard\obj\Release\BathYard.EmpForm.resources
+C:\Users\User\Desktop\Курсач\BathYard\BathYard\obj\Release\BathYard.HallForm.resources
+C:\Users\User\Desktop\Курсач\BathYard\BathYard\obj\Release\BathYard.HeadForm.resources
+C:\Users\User\Desktop\Курсач\BathYard\BathYard\obj\Release\BathYard.RentForm.resources
+C:\Users\User\Desktop\Курсач\BathYard\BathYard\obj\Release\BathYard.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Курсач\BathYard\BathYard\obj\Release\BathYard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсач\BathYard\BathYard\obj\Release\BathYard.exe
+C:\Users\User\Desktop\Курсач\BathYard\BathYard\obj\Release\BathYard.pdb
